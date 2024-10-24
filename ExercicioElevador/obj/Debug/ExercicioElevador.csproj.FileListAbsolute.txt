@@ -1,0 +1,15 @@
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.exe.config
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.exe
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.pdb
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.csprojAssemblyReference.cache
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.csproj.CoreCompileInputs.cache
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.exe
+C:\Users\E37083\Desktop\Curso-Csharp\ExerciciosCsharp\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.pdb
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.exe.config
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.exe
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\bin\Debug\ExercicioElevador.pdb
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.csproj.AssemblyReference.cache
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.csproj.SuggestedBindingRedirects.cache
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.csproj.CoreCompileInputs.cache
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.exe
+C:\Users\almei\Downloads\ExercicioElevador\ExercicioElevador\obj\Debug\ExercicioElevador.pdb
